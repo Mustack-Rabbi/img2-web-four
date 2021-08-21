@@ -5,3 +5,9 @@
 .menu-dropdown-bg {
   background: burlywood;
 }
+.hover-search {
+  color: black;
+}
+.hover-search:hover {
+  color: whitesmoke;
+}
