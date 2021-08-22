@@ -9,7 +9,7 @@
   color: black;
 }
 .hover-search:hover {
-  color: whitesmoke;
+  background: #f3a847 !important;
 }
 .corsol-smalld-left {
   height: 250px;
